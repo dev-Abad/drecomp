@@ -12,7 +12,7 @@
         <div class="d-flex justify-content-between w-100">
             <a class="navbar-brand" href="#">
             <a href="{{ route('main') }}">
-                <img src="{{ asset('image/dre logo.png') }}" alt="DRELOGO" width="200" height="125" class="d-inline-block align-text-top">
+                <img src="{{ asset('image/monitor/dre logo.png') }}" alt="DRELOGO" width="200" height="125" class="d-inline-block align-text-top">
             </a>
             </a>
             <ul class="nav align-items-center">

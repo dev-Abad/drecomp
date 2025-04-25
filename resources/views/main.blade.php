@@ -28,7 +28,7 @@
 
     <section class="bg-light py-3 d-flex justify-content-around flex-wrap gap-3">
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/hkc.png') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/hkc.png') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">HKC MG34H2UB 34"</h3>
@@ -43,7 +43,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/GAMDIAS27.png') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/GAMDIAS27.png') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">Gamdias Atlas HD27CG </h3>
@@ -58,7 +58,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/msi.jpg') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/msi.jpg') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">MSI MAG 27CQ6F 27″ </h3>
@@ -73,7 +73,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/gigabyte1.jpg') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/gigabyte1.jpg') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">Gigabyte GS27QCA 27"</h3>
@@ -88,7 +88,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/viewsonic.png') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/viewsonic.png') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">ViewSonic VX2479A-HD PRO 24″ </h3>
@@ -105,7 +105,7 @@
     </section>
     <section class="bg-light py-3 d-flex justify-content-around flex-wrap gap-3">
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/n190hd.jpg') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/n190hd.jpg') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">NVISION N190HD 19" LED MONITOR</h3>
@@ -120,7 +120,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/n190hd.jpg') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/n190hd.jpg') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">NVISION N200HD 20" LED MONITOR</h3>
@@ -135,7 +135,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/h22v8.png') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/h22v8.png') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">NVISION H22V8 21.5" </h3>
@@ -150,7 +150,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/aoc22.png') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/aoc22.png') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">AOC 22B30HM2/71 22" </h3>
@@ -165,7 +165,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/hd238.png') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/hd238.png') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">GAMDIAS ATLAS HD238IF III 23.8"</h3>
@@ -183,7 +183,7 @@
 
     <section class="bg-light py-3 d-flex justify-content-around flex-wrap gap-3">
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/VH22F.jpg') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/VH22F.jpg') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">GAMDIAS ATLAS VH22F 22"</h3>
@@ -198,7 +198,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/24G2SE.png') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/24G2SE.png') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">AOC 24G2SE 24" </h3>
@@ -213,7 +213,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/MP273W.png') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/MP273W.png') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">MSI PRO MP273W 27"</h3>
@@ -228,7 +228,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/eg27f1.jpg') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/eg27f1.jpg') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">NVISION EG27F1 PRO 27"</h3>
@@ -243,7 +243,7 @@
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img src="{{ asset('image/mp242c.jpg') }}" class="card-img-top" alt="...">
+            <img src="{{ asset('image/monitor/mp242c.jpg') }}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">
                     <h3 class="fw-bold">MSI PRO MP242C SERIES 24"</h3>
